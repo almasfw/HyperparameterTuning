@@ -1,0 +1,10 @@
+Assingment 3: Hyperparameter Tuning
+This assignment is done in group and should be submitted by Monday, 9 November 2020, at midnight.
+
+Using juice.csv dataset used in the question 3 of mid exam, create the following SVM models:
+
+Model SVM trained using default hyperparameter. 
+Model SVM trained and tuned using GridSearchCV.
+Model SVM trained and tuned using RandomSearchCV.
+Model SVM trained and tuned using Bayesian Optimization (available in Scikit-optimize library).
+Submit your python notebook or the link of your notebook in Google Colab. Do not forget to write the names of your group member.
